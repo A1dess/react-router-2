@@ -1,0 +1,38 @@
+.from{
+    background-color: rgb(139, 173, 15);
+    width: 80%;
+    margin-left: 10%;
+}
+
+.content{
+    border: 2px solid rgb(65, 114, 8);
+    margin: 20px;
+    padding: 20px;
+}
+
+.content2{
+    margin: 20px;
+    padding: 20px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ser{
+    display: flex;
+}
+
+.text {
+    width: 170px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+ }
+
+ button{
+    width: 7%;
+ }
